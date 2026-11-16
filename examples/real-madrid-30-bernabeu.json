@@ -1,0 +1,17 @@
+{
+  "title": "Real Madrid - 30s (Bernabeu & Players)",
+  "language": "uz",
+  "mode": "music",
+  "aspect": "9:16",
+  "targetDuration": 30,
+  "music": { "enabled": true, "mood": "epic", "volumeDb": -7 },
+  "subtitles": { "enabled": false, "burnIn": false },
+  "scenes": [
+    { "headline": "REAL MADRID CF", "subheadline": "Dunyoning eng buyuk klubi", "kicker": "HALA MADRID", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade", "image": "examples/assets/ad-1.png" },
+    { "headline": "6 MART 1902", "subheadline": "Madrid Futbol Klubi sifatida asos solingan", "kicker": "TARIX", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve", "image": "examples/assets/ad-2.png" },
+    { "headline": "SANTIAGO BERNABÉU", "subheadline": "81 044 muxli stadioni", "kicker": "STADION", "duration": 5, "palette": ["#00172d", "#1e3a8a", "#60a5fa"], "style": "spotlight", "motion": "zoom-out", "transition": "wipeleft", "image": "examples/assets/ad-3.png" },
+    { "headline": "AFSONALIY YULDUZLAR", "subheadline": "Di Stéfano • Puskás • Zidane • Ronaldo • Modrić", "kicker": "QAHRAMONLAR", "duration": 5, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-out", "transition": "dissolve", "image": "examples/assets/ad-1.png" },
+    { "headline": "YENGILMAS RUH", "subheadline": "Hech qachon taslim bo'lmaydi", "kicker": "KOMANDA RUHI", "duration": 4, "palette": ["#050816", "#22d3ee", "#67e8f9"], "style": "grid", "motion": "pan-right", "transition": "fade", "image": "examples/assets/ad-2.png" },
+    { "headline": "HALA MADRID", "subheadline": "Y MONARQUÍA!", "kicker": "VIVA REAL MADRID", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade", "image": "examples/assets/ad-3.png" }
+  ]
+}

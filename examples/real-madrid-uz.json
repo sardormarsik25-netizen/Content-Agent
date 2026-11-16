@@ -1,0 +1,16 @@
+{
+  "title": "Real Madrid",
+  "language": "uz",
+  "mode": "music",
+  "aspect": "9:16",
+  "targetDuration": 15,
+  "music": { "enabled": true, "mood": "cinematic", "volumeDb": -8 },
+  "subtitles": { "enabled": false, "burnIn": false },
+  "scenes": [
+    { "headline": "Real Madrid", "subheadline": "120 yildan ortiq tarix", "kicker": "1902", "duration": 3, "palette": ["#050816", "#94a3b8", "#e2e8f0"], "style": "spotlight", "motion": "zoom-in", "transition": "fade" },
+    { "headline": "6-mart 1902", "subheadline": "Klub shu kuni tashkil etilgan", "kicker": "Tarix", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve" },
+    { "headline": "15", "subheadline": "Chempionlar Ligasi — jahon rekordi", "kicker": "UCL", "duration": 3, "palette": ["#0a0a0a", "#ca8a04", "#fde047"], "style": "aurora", "motion": "zoom-out", "transition": "wipeleft" },
+    { "headline": "36 · 20", "subheadline": "La Liga · Copa del Rey", "kicker": "Kuboklar", "duration": 3, "palette": ["#120a0a", "#dc2626", "#fb923c"], "style": "stripes", "motion": "pan-left", "transition": "dissolve" },
+    { "headline": "100+", "subheadline": "Rasmiy kuboklar", "kicker": "Obuna bo'ling", "duration": 3, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-in", "transition": "fade" }
+  ]
+}

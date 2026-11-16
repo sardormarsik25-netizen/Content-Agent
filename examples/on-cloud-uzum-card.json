@@ -1,0 +1,47 @@
+{
+  "title": "On Cloud - Uzum Card",
+  "language": "uz",
+  "mode": "music",
+  "aspect": "9:16",
+  "targetDuration": 12,
+  "music": { "enabled": true, "mood": "minimal", "volumeDb": -12 },
+  "subtitles": { "enabled": false, "burnIn": false },
+  "scenes": [
+    {
+      "headline": "ON CLOUD",
+      "subheadline": "Krossovka",
+      "kicker": "",
+      "duration": 2,
+      "image": null,
+      "imageFit": "contain",
+      "motion": "zoom-in",
+      "transition": "fade",
+      "palette": ["#ffffff", "#f8f9fa", "#000000"],
+      "style": "minimal"
+    },
+    {
+      "headline": "Bulutdek",
+      "subheadline": "Yengillik",
+      "kicker": "",
+      "duration": 2,
+      "image": null,
+      "imageFit": "contain",
+      "motion": "zoom-in",
+      "transition": "fade",
+      "palette": ["#ffffff", "#f8f9fa", "#000000"],
+      "style": "minimal"
+    },
+    {
+      "headline": "ON CLOUD",
+      "subheadline": "1 499 000 so'm",
+      "kicker": "",
+      "duration": 8,
+      "image": null,
+      "imageFit": "contain",
+      "motion": "zoom-in",
+      "transition": "fade",
+      "palette": ["#ffffff", "#f8f9fa", "#000000"],
+      "style": "minimal"
+    }
+  ]
+}

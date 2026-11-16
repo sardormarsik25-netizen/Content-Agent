@@ -1,0 +1,15 @@
+{
+  "id": "default",
+  "brand_name": "",
+  "product_description": "",
+  "audience": "",
+  "tone": [],
+  "goals": [],
+  "verified_facts": [],
+  "prohibited_claims": [],
+  "offers": [],
+  "default_cta": "",
+  "hashtags": [],
+  "language": "uz",
+  "notes": "Fill this file in with real brand information. Every empty field is treated as 'unknown' — the agent will never invent it. Only entries under verified_facts and offers may be stated as fact; everything else is left out or returned as a suggestion."
+}

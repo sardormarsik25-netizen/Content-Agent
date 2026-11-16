@@ -1,0 +1,18 @@
+{
+  "title": "Real Madrid - 20 soniya (Türkçe)",
+  "language": "tr",
+  "mode": "narrated",
+  "aspect": "9:16",
+  "targetDuration": 20,
+  "music": { "enabled": true, "mood": "cinematic", "volumeDb": -8 },
+  "voice": { "enabled": true, "voice_name": "tr-TR-EmirNeural", "speed": 1.0 },
+  "subtitles": { "enabled": true, "burnIn": false },
+  "scenes": [
+    { "headline": "REAL MADRID CF", "subheadline": "Dünyanın en büyük kulübü", "kicker": "HALA MADRID", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade", "narration": "REAL MADRID CF - Dünyanın en büyük kulübü" },
+    { "headline": "6 MART 1902", "subheadline": "Madrid Futbol Klübü kuruldu", "kicker": "TARİH", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve", "narration": "6 MART 1902 - Madrid Futbol Klübü kuruldu" },
+    { "headline": "SANTIAGO BERNABEU", "subheadline": "81.044 kapasiteli stadyum", "kicker": "STADYUM", "duration": 4, "palette": ["#00172d", "#1e3a8a", "#60a5fa"], "style": "spotlight", "motion": "zoom-out", "transition": "wipeleft", "narration": "SANTIAGO BERNABEU - 81.044 kapasiteli stadyum" },
+    { "headline": "GÜNÜYAN YÜZBAŞLAR", "subheadline": "Di Stéfano • Puskas • Zidane • Ronaldo • Modriç", "kicker": "EFSANELER", "duration": 4, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-out", "transition": "dissolve", "narration": "GÜNÜYAN YÜZBAŞLAR - Di Stéfano • Puskas • Zidane • Ronaldo • Modriç" },
+    { "headline": "YAVAS RÜH", "subheadline": "Hiçbir zaman teslim olmaz", "kicker": "KOMANDAN RÜHİ", "duration": 3, "palette": ["#050816", "#22d3ee", "#67e8f9"], "style": "grid", "motion": "pan-right", "transition": "fade", "narration": "YAVAS RÜH - Hiçbir zaman teslim olmaz" },
+    { "headline": "HALA MADRID!", "subheadline": "Hayırlı olsun kral!", "kicker": "HALA MADRID", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade", "narration": "HALA MADRID! - Hayırlı olsun kral!" }
+  ]
+}

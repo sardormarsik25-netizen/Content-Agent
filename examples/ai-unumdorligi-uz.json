@@ -1,0 +1,17 @@
+{
+  "title": "AI Unumdorligi",
+  "language": "uz",
+  "mode": "music",
+  "aspect": "9:16",
+  "targetDuration": 20,
+  "music": { "enabled": true, "mood": "cinematic", "volumeDb": -7 },
+  "subtitles": { "enabled": false, "burnIn": false },
+  "scenes": [
+    { "headline": "Kuniga 2 soat vaqtingiz AI yeb qo'yyapti.", "subheadline": "Keling, tasniflaymiz", "kicker": "AI", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade" },
+    { "headline": "Student ham, freelancer ham bir xil xatoni qiladi", "subheadline": "AI'ni Google kabi ishlatadi", "kicker": "Tahlil", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve" },
+    { "headline": "Matn: qoralama emas, tayyor struktura so'rang.", "subheadline": "Chiqish quality", "kicker": "Quality", "duration": 3, "palette": ["#0a0a0a", "#ca8a04", "#fde047"], "style": "aurora", "motion": "zoom-out", "transition": "wipeleft" },
+    { "headline": "Hisobotni o'zingiz o'qimang — xulosa chiqartiring.", "subheadline": "AI natijalari tekshiruv", "kicker": "Review", "duration": 4, "palette": ["#120a0a", "#dc2626", "#fb923c"], "style": "stripes", "motion": "pan-left", "transition": "dissolve" },
+    { "headline": "Takrorlanadigan 1 ishni AI'ga bering.", "subheadline": "Avtomatlashtirish yolu", "kicker": "Auto", "duration": 3, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-out", "transition": "dissolve" },
+    { "headline": "60% tezroq. Saqlab qo'ying — ertaga kerak bo'ladi.", "subheadline": "Keyingi oylik", "kicker": "CTA", "duration": 3, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade" }
+  ]
+}

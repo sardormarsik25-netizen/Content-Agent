@@ -1,0 +1,18 @@
+{
+  "title": "AI Verimliliği - 20 soniya",
+  "language": "tr",
+  "mode": "narrated",
+  "aspect": "9:16",
+  "targetDuration": 20,
+  "music": { "enabled": true, "mood": "cinematic", "volumeDb": -8 },
+  "voice": { "enabled": true, "voice_name": "tr-TR-EmirNeural", "speed": 1.0 },
+  "subtitles": { "enabled": true, "burnIn": false },
+  "scenes": [
+    { "headline": "Gününüzün 2 saatini AI ile geçiriyorsunuz", "subheadline": "Sınıflandırma yapalım", "kicker": "AI", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade", "narration": "Gününüzün 2 saatini AI ile geçiriyorsunuz." },
+    { "headline": "Öğrenci ve serbest çalışan aynı hatayı yapıyor", "subheadline": "AI'yi Google gibi kullanıyor", "kicker": "Analiz", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve", "narration": "Öğrenci ve serbest çalışan aynı hatayı yapıyor — AI'yi Google gibi kullanıyor." },
+    { "headline": "Metin: sadece kopyalayın, yapılandırılmış çıktı isteyin", "subheadline": "Quality output", "kicker": "Quality", "duration": 3, "palette": ["#0a0a0a", "#ca8a04", "#fde047"], "style": "aurora", "motion": "zoom-out", "transition": "wipeleft", "narration": "Metin: sadece kopyalayın, yapılandırılmış çıktı isteyin." },
+    { "headline": "Raporu kendiniz okuyun — özet oluşturun", "subheadline": "AI sonuçları review", "kicker": "Review", "duration": 4, "palette": ["#120a0a", "#dc2626", "#fb923c"], "style": "stripes", "motion": "pan-left", "transition": "dissolve", "narration": "Raporu kendiniz okuyun — özet oluşturun." },
+    { "headline": "Tekrar eden işi AI'a verin", "subheadline": "Otomasyon yolu", "kicker": "Auto", "duration": 3, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-out", "transition": "dissolve", "narration": "Tekrar eden işi AI'a verin." },
+    { "headline": "Daha hızlı %60. Bunu kaydedin - yarın ihtiyacınız olacak", "subheadline": "Bir sonraki hafta", "kicker": "CTA", "duration": 3, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade", "narration": "Daha hızlı %60. Bunu kaydedin - yarın ihtiyacınız olacak." }
+  ]
+}

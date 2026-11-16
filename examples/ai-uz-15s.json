@@ -1,0 +1,57 @@
+{
+  "title": "Sun'iy intellekt — 15 soniya",
+  "language": "uz",
+  "mode": "narrated",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 15,
+  "voice": {
+    "provider": "edge",
+    "voice": "uz-UZ-MadinaNeural",
+    "rate": "+20%",
+    "pitch": "+0Hz"
+  },
+  "music": { "enabled": true, "mood": "cinematic", "volume_db": -22 },
+  "subtitles": { "enabled": true, "burn_in": true },
+  "scenes": [
+    {
+      "narration": "Sun'iy intellekt allaqachon hayotimizning bir qismiga aylandi.",
+      "headline": "Sun'iy intellekt",
+      "subheadline": "Yangi imkoniyatlar davri",
+      "kicker": "AI",
+      "palette": ["#050816", "#2563eb", "#22d3ee"],
+      "style": "aurora",
+      "motion": "zoom-in",
+      "transition": "fade"
+    },
+    {
+      "narration": "U shifokorlarga kasalliklarni tezroq aniqlashda yordam beradi.",
+      "headline": "Sog'liqni saqlash",
+      "subheadline": "Tezroq va aniqroq tashxis",
+      "kicker": "Meditsina",
+      "palette": ["#06120c", "#059669", "#a3e635"],
+      "style": "grid",
+      "motion": "pan-right",
+      "transition": "dissolve"
+    },
+    {
+      "narration": "Ta'limda esa har bir o'quvchiga mos mashg'ulotlar yaratadi.",
+      "headline": "Ta'lim",
+      "subheadline": "Har bir o'quvchiga mos yo'l",
+      "kicker": "Ta'lim",
+      "palette": ["#0b0714", "#7c3aed", "#f472b6"],
+      "style": "spotlight",
+      "motion": "pan-left",
+      "transition": "dissolve"
+    },
+    {
+      "narration": "Kelajak texnologiyasi bugun biz bilan.",
+      "headline": "Kelajak bugun",
+      "subheadline": "Imkoniyatdan foydalaning",
+      "kicker": "Xulosa",
+      "palette": ["#160b05", "#ea580c", "#fbbf24"],
+      "style": "stripes",
+      "motion": "zoom-out",
+      "transition": "fade"
+    }
+  ]
+}

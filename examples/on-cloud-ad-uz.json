@@ -1,0 +1,61 @@
+{
+  "title": "On Cloud - Reklama",
+  "language": "uz",
+  "mode": "music",
+  "aspect": "9:16",
+  "targetDuration": 16,
+  "music": { "enabled": true, "mood": "energetic", "volumeDb": -6 },
+  "subtitles": { "enabled": false, "burnIn": false },
+  "scenes": [
+    {
+      "headline": "ON CLOUD",
+      "subheadline": "Bulutdek yengillik",
+      "kicker": "YANGI AVLOD",
+      "duration": 2.5,
+      "palette": ["#000000", "#ffffff", "#22d3ee"],
+      "style": "minimal",
+      "motion": "zoom-in",
+      "transition": "fade"
+    },
+    {
+      "headline": "ULTRA YENGIL",
+      "subheadline": "Har bir qadamda havo",
+      "kicker": "ENG YENGIL",
+      "duration": 2.5,
+      "palette": ["#000000", "#e5e7eb", "#38bdf8"],
+      "style": "spotlight",
+      "motion": "zoom-out",
+      "transition": "dissolve"
+    },
+    {
+      "headline": "TEPADAN PASTGA",
+      "subheadline": "Energiyangizni oching",
+      "kicker": "DYNAMIK",
+      "duration": 3,
+      "palette": ["#020617", "#ffffff", "#22d3ee"],
+      "style": "aurora",
+      "motion": "zoom-in",
+      "transition": "fade"
+    },
+    {
+      "headline": "SILJISH ERKIN",
+      "subheadline": "Zarba his qilmaydigan yumshoqlik",
+      "kicker": "BOSHQA DARAJADA",
+      "duration": 3,
+      "palette": ["#000000", "#f8fafc", "#60a5fa"],
+      "style": "grid",
+      "motion": "pan-right",
+      "transition": "wipeleft"
+    },
+    {
+      "headline": "ON CLOUD",
+      "subheadline": "Sakrashni his eting.",
+      "kicker": "#ONCLOUD",
+      "duration": 5,
+      "palette": ["#000000", "#ffffff", "#06b6d4"],
+      "style": "minimal",
+      "motion": "zoom-out",
+      "transition": "fade"
+    }
+  ]
+}

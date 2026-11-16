@@ -1,0 +1,18 @@
+{
+  "title": "Real Madrid - 30s",
+  "language": "uz",
+  "mode": "music",
+  "aspect": "9:16",
+  "targetDuration": 30,
+  "music": { "enabled": true, "mood": "epic", "volumeDb": -8 },
+  "subtitles": { "enabled": false, "burnIn": false },
+  "scenes": [
+    { "headline": "REAL MADRID", "subheadline": "Santiago Bernabéu", "kicker": "HALA MADRID", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade" },
+    { "headline": "1902-yildan beri", "subheadline": "Eng buyuk klub", "kicker": "TARIX", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve" },
+    { "headline": "15", "subheadline": "UEFA Chempionlar Ligasi", "kicker": "JAHON REKORDI", "duration": 3, "palette": ["#0a0a0a", "#ca8a04", "#fde047"], "style": "aurora", "motion": "zoom-out", "transition": "wipeleft" },
+    { "headline": "36 | 20 | 13", "subheadline": "La Liga • Copa del Rey • Supercopa", "kicker": "MAHALLIY KUBOKLAR", "duration": 4, "palette": ["#120a0a", "#dc2626", "#fb923c"], "style": "stripes", "motion": "pan-left", "transition": "dissolve" },
+    { "headline": "AFSONALAR", "subheadline": "Di Stéfano • Puskás • Zidane • Ronaldo • Modrić", "kicker": "YULDUZLAR", "duration": 4, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-in", "transition": "fade" },
+    { "headline": "BERNABÉU", "subheadline": "Qalbimiz - 81 000 muxlis", "kicker": "STADION", "duration": 4, "palette": ["#00172d", "#1e40af", "#60a5fa"], "style": "spotlight", "motion": "pan-right", "transition": "wipeleft" },
+    { "headline": "Hala Madrid", "subheadline": "Y Monarquia!", "kicker": "VA DOIMO", "duration": 8, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade" }
+  ]
+}

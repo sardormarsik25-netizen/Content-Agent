@@ -1,0 +1,18 @@
+{
+  "title": "AI Produktivnost - 20 soniya",
+  "language": "ru",
+  "mode": "narrated",
+  "aspect": "9:16",
+  "targetDuration": 20,
+  "music": { "enabled": true, "mood": "cinematic", "volumeDb": -8 },
+  "voice": { "enabled": true, "voice_name": "ru-RZ-AleksandrNeural", "speed": 1.0 },
+  "subtitles": { "enabled": true, "burnIn": false },
+  "scenes": [
+    { "headline": "Вы тратите 2 часа дня на ИИ", "subheadline": "Позвольте классифицировать", "kicker": "ИИ", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade", "narration": "Вы тратите 2 часа дня на ИИ." },
+    { "headline": "Студент и фрилансер совершают одну и ту же ошибку", "subheadline": "ИИ как Google используют", "kicker": "Анализ", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve", "narration": "Студент и фрилансер совершают одну и ту же ошибку — ИИ как Google используют." },
+    { "headline": "Текст: не просто копируйте, запрашивайте структурированный вывод", "subheadline": "Quality output", "kicker": "Quality", "duration": 3, "palette": ["#0a0a0a", "#ca8a04", "#fde047"], "style": "aurora", "motion": "zoom-out", "transition": "wipeleft", "narration": "Текст: не просто копируйте, запрашивайте структурированный вывод." },
+    { "headline": "Сам прочитайте отчет — сгенерируйте резюме", "subheadline": "AI natijalari tekshiruv", "kicker": "Review", "duration": 4, "palette": ["#120a0a", "#dc2626", "#fb923c"], "style": "stripes", "motion": "pan-left", "transition": "dissolve", "narration": "Сам прочитайте отчет — сгенерируйте резюме." },
+    { "headline": "Повторяющуюся задачу ИИ дайте", "subheadline": "Avtomatlashtirish yolu", "kicker": "Auto", "duration": 3, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-out", "transition": "dissolve", "narration": "Повторяющуюю задачу ИИ дайте." },
+    { "headline": "Быстрее на 60%. Сохраните это — завтра понадобится", "subheadline": "Next week", "kicker": "CTA", "duration": 3, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade", "narration": "Быстрее на 60%. Сохраните это — завтра понадобится." }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "AI Productivity",
+  "language": "en",
+  "mode": "music",
+  "aspect": "9:16",
+  "targetDuration": 20,
+  "music": { "enabled": true, "mood": "cinematic", "volumeDb": -7 },
+  "subtitles": { "enabled": false, "burnIn": false },
+  "scenes": [
+    { "headline": "You spend 2 hours of your day with AI.", "subheadline": "Let's classify", "kicker": "AI", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade" },
+    { "headline": "Student and freelancer make the same mistake", "subheadline": "using AI like Google", "kicker": "Analysis", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve" },
+    { "headline": "Text: don't just copy, ask for structured output.", "subheadline": "Quality output", "kicker": "Quality", "duration": 3, "palette": ["#0a0a0a", "#ca8a04", "#fde047"], "style": "aurora", "motion": "zoom-out", "transition": "wipeleft" },
+    { "headline": "Read the report yourself - generate a summary.", "subheadline": "AI results review", "kicker": "Review", "duration": 4, "palette": ["#120a0a", "#dc2626", "#fb923c"], "style": "stripes", "motion": "pan-left", "transition": "dissolve" },
+    { "headline": "Give the recurring task to AI.", "subheadline": "Automation path", "kicker": "Auto", "duration": 3, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-out", "transition": "dissolve" },
+    { "headline": "60% faster. Save it - you'll need it tomorrow.", "subheadline": "Next week", "kicker": "CTA", "duration": 3, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade" }
+  ]
+}

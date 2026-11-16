@@ -1,0 +1,18 @@
+{
+  "title": "Real Madrid - 20 soniya",
+  "language": "uz",
+  "mode": "narrated",
+  "aspect": "9:16",
+  "targetDuration": 20,
+  "music": { "enabled": true, "mood": "cinematic", "volumeDb": -8 },
+  "voice": { "enabled": true, "voice_name": "uz-UZ-MadinaNeural", "speed": 1.0 },
+  "subtitles": { "enabled": true, "burnIn": false },
+  "scenes": [
+    { "headline": "REAL MADRID CF", "subheadline": "Dunyoning eng buyuk klubi", "kicker": "HALA MADRID", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade", "narration": "REAL MADRID CF - Dunyoning eng buyuk klubi" },
+    { "headline": "6 MART 1902", "subheadline": "Madrid Futbol Klubi tashkil olgan kun", "kicker": "TARIX", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve", "narration": "6 MART 1902 - Madrid Futbol Klubi tashkil olgan kun" },
+    { "headline": "SANTIAGO BERNABÉU", "subheadline": "81 044 muxli stadioni", "kicker": "STADION", "duration": 4, "palette": ["#00172d", "#1e3a8a", "#60a5fa"], "style": "spotlight", "motion": "zoom-out", "transition": "wipeleft", "narration": "SANTIAGO BERNABÉU - 81 044 muxli stadioni" },
+    { "headline": "AFSONALIY YULDUZLAR", "subheadline": "Di Stéfano • Puskás • Zidane • Ronaldo • Modrić", "kicker": "QAHRAMONLAR", "duration": 4, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-out", "transition": "dissolve", "narration": "AFSONALIY YULDUZLAR - Di Stéfano • Puskás • Zidane • Ronaldo • Modrić" },
+    { "headline": "YENGILMAS RUH", "subheadline": "Hech qachon taslim bo'lmaydi", "kicker": "KOMANDA RUHI", "duration": 3, "palette": ["#050816", "#22d3ee", "#67e8f9"], "style": "grid", "motion": "pan-right", "transition": "fade", "narration": "YENGILMAS RUH - Hech qachon taslim bo'lmaydi" },
+    { "headline": "HALA MADRID", "subheadline": "Y MONARQUÍA!", "kicker": "VIVA REAL MADRID", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade", "narration": "HALA MADRID - Y MONARQUÍA!" }
+  ]
+}

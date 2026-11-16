@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Runtime data and generated media
+logs/
+*.log
+outputs/
+store/
+
+# Local caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db

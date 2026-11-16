@@ -1,0 +1,18 @@
+{
+  "title": "Real Madrid - 20 soniya (Ruscha)",
+  "language": "ru",
+  "mode": "narrated",
+  "aspect": "9:16",
+  "targetDuration": 20,
+  "music": { "enabled": true, "mood": "cinematic", "volumeDb": -8 },
+  "voice": { "enabled": true, "voice_name": "ru-RZ-AleksandrNeural", "speed": 1.0 },
+  "subtitles": { "enabled": true, "burnIn": false },
+  "scenes": [
+    { "headline": "REAL MADRID CF", "subheadline": "Наибольший клуб в мире", "kicker": "ХАЛА МАДРИД", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "spotlight", "motion": "zoom-in", "transition": "fade", "narration": "REAL MADRID CF - Наибольший клуб в мире" },
+    { "headline": "6 MART 1902", "subheadline": "Madrid Football Club был образован в этот день", "kicker": "ИСТОРИЯ", "duration": 3, "palette": ["#0b0714", "#2563eb", "#93c5fd"], "style": "grid", "motion": "pan-right", "transition": "dissolve", "narration": "6 MART 1902 - Madrid Football Club был образован в этот день" },
+    { "headline": "SANTIAGO BERNABEU", "subheadline": "Стадион на 81 044 spectatora", "kicker": "СТАДИОН", "duration": 4, "palette": ["#00172d", "#1e3a8a", "#60a5fa"], "style": "spotlight", "motion": "zoom-out", "transition": "wipeleft", "narration": "SANTIAGO BERNABEU - Стадион на 81 044 spectatora" },
+    { "headline": "ЛЕГЕНДАРНЫЕ ИГРОКИ", "subheadline": "Di Stéfano • Puskas • Zidane • Ronaldo • Modric", "kicker": "ЛЕГЕНДЫ", "duration": 4, "palette": ["#050816", "#7c3aed", "#a855f7"], "style": "minimal", "motion": "zoom-out", "transition": "dissolve", "narration": "ЛЕГЕНДАРНЫЕ ИГРОКИ - Di Stéfano • Puskas • Zidane • Ronaldo • Modric" },
+    { "headline": "ПАЛИВАЯ РУХА", "subheadline": "Никогда не сдавайтесь", "kicker": "ДУХ КОМАНДЫ", "duration": 3, "palette": ["#050816", "#22d3ee", "#67e8f9"], "style": "grid", "motion": "pan-right", "transition": "fade", "narration": "ПАЛИВАЯ РУХА - Никогда не сдавайтесь" },
+    { "headline": "ХАЛА МАДРИД!", "subheadline": "Хайл Мадрид!", "kicker": "ХАЛА МАДРИД", "duration": 4, "palette": ["#050816", "#f59e0b", "#fbbf24"], "style": "aurora", "motion": "zoom-in", "transition": "fade", "narration": "ХАЛА МАДРИД! - Хайл Мадрид!" }
+  ]
+}

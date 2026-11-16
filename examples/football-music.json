@@ -1,0 +1,61 @@
+{
+  "title": "Zamonaviy futbol",
+  "language": "uz",
+  "mode": "music",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 12,
+  "music": { "enabled": true, "mood": "energetic", "volume_db": -8 },
+  "subtitles": { "enabled": false, "burn_in": false },
+  "scenes": [
+    {
+      "headline": "Futbol",
+      "subheadline": "Ehtiros va harakat",
+      "kicker": "Zamonaviy o'yin",
+      "duration": 2.6,
+      "palette": ["#06120c", "#16a34a", "#a3e635"],
+      "style": "stripes",
+      "motion": "zoom-in",
+      "transition": "fade"
+    },
+    {
+      "headline": "Maydon",
+      "subheadline": "Har bir metr muhim",
+      "kicker": "Geometriya",
+      "duration": 2.6,
+      "palette": ["#050816", "#2563eb", "#22d3ee"],
+      "style": "grid",
+      "motion": "pan-right",
+      "transition": "wipeleft"
+    },
+    {
+      "headline": "Tezlik",
+      "subheadline": "Qaror bir soniyada",
+      "kicker": "Ritm",
+      "duration": 2.6,
+      "palette": ["#160b05", "#ea580c", "#fbbf24"],
+      "style": "spotlight",
+      "motion": "pan-left",
+      "transition": "dissolve"
+    },
+    {
+      "headline": "Jamoa",
+      "subheadline": "Bitta maqsad yo'lida",
+      "kicker": "Ruh",
+      "duration": 2.6,
+      "palette": ["#0b0714", "#7c3aed", "#f472b6"],
+      "style": "aurora",
+      "motion": "zoom-out",
+      "transition": "circleopen"
+    },
+    {
+      "headline": "G'alaba",
+      "subheadline": "Har bir o'yinda yangi imkoniyat",
+      "kicker": "Yakun",
+      "duration": 2.6,
+      "palette": ["#120a0a", "#dc2626", "#fb923c"],
+      "style": "minimal",
+      "motion": "zoom-in",
+      "transition": "fade"
+    }
+  ]
+}

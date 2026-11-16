@@ -1,0 +1,41 @@
+{
+  "title": "Rasmlardan reklama",
+  "language": "uz",
+  "mode": "music",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 9,
+  "music": { "enabled": true, "mood": "uplifting", "volume_db": -9 },
+  "subtitles": { "enabled": false, "burn_in": false },
+  "scenes": [
+    {
+      "image": "assets/ad-1.png",
+      "headline": "Yangi kolleksiya",
+      "subheadline": "Har kuni uchun qulaylik",
+      "kicker": "Reklama",
+      "duration": 3,
+      "palette": ["#050816", "#2563eb", "#22d3ee"],
+      "motion": "zoom-in",
+      "transition": "fade"
+    },
+    {
+      "image": "assets/ad-2.png",
+      "headline": "Sifat",
+      "subheadline": "Har bir detalsda",
+      "kicker": "Mahsulot",
+      "duration": 3,
+      "palette": ["#06120c", "#059669", "#a3e635"],
+      "motion": "pan-left",
+      "transition": "dissolve"
+    },
+    {
+      "image": "assets/ad-3.png",
+      "headline": "Bugun sinab ko'ring",
+      "subheadline": "O'zingiz uchun tanlang",
+      "kicker": "Taklif",
+      "duration": 3,
+      "palette": ["#160b05", "#ea580c", "#fbbf24"],
+      "motion": "zoom-out",
+      "transition": "wipeleft"
+    }
+  ]
+}
