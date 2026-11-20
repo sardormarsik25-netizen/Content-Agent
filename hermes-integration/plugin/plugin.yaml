@@ -1,0 +1,21 @@
+name: content-agent
+version: 0.2.0
+description: Native Hermes content creation and video renderer using the parent model.
+author: local
+provides_tools:
+  - content_agent_render
+provides_commands:
+  - content
+config_schema:
+  project_root:
+    type: string
+    required: true
+  node:
+    type: string
+    default: node
+  approved_brand_hosts:
+    type: object
+    default: {}
+  tts_fallbacks:
+    type: array
+    default: []
